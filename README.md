@@ -25,6 +25,16 @@ Features:
 * Estimated Salary: Customer's estimated annual salary.
 * Churn: Target variable (0 for no churn, 1 for churn).
 
+**Approach**
+1) Data Preprocessing
+2) Exploratory Data Analysis (EDA)
+3) Modeling
+4) Model Evaluation
+
+
+
+
+
 
 
 
